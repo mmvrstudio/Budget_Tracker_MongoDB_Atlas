@@ -19,7 +19,7 @@ STEP 1_) Connecting to MongoDB Atlas:
 ![MDB_Atlas](https://user-images.githubusercontent.com/65464431/164945393-9f2842c4-6a37-4eca-bad3-b5a15453bb98.png)
 
 
-STEP 2_) Setting up the VARS in Heroku:
+STEP 2_) Configuring the VARS in Heroku:
 
 ![VARS](https://user-images.githubusercontent.com/65464431/164945387-f10cc77d-affb-4726-8b81-f547028ac2c5.png)
 
