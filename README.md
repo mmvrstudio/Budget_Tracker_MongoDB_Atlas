@@ -26,6 +26,7 @@ STEP 2_) Configuring the VARS in Heroku:
 
 STEP 3_) App Deployment: 
 
+![LaunchinginHeroku](https://user-images.githubusercontent.com/65464431/164945443-e5c745c5-1494-4f6d-9164-eb6c9218c37e.png)
 
 Step 4_) Deployed App seen in Firefox:
 
