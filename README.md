@@ -12,7 +12,7 @@
     - The offline entries are added to the tracker when the application is back online
 
 
-### Screenshots:
+### How its made/ Walkthrough (Screenshots):
 
 STEP 1_) Connecting to MongoDB Atlas:
 
