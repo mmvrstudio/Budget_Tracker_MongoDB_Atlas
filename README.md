@@ -1,7 +1,7 @@
 ## Progressive Web Application, PWA | My Budget Tracker
 
 ### Description
-    The easiest way to track your expenses is with a Budget Tracker! The user is able to access the input information at any time even offline. Their info is stored in the app. 
+    This budget tracker is the easiest way to track your expenses, anytime, anywhere, specially if you're offline! The user is able to access the input information even without internet connection. Their info is stored in the app and when it goes back online it recognizes all the changes made offline. Amazing syncronization!
     
 ### Deployed Application:
     https://mypwabudgettracker.herokuapp.com/
